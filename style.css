@@ -1,0 +1,41 @@
+
+	#page {
+			background-image: url("images/scroll_to_tree.JPG");
+			background-color: #efefef;
+		}
+		#header {
+			background-color: #009933;
+			height: 200;
+			text-align: center;
+		}
+		body {
+			font-family: monospace;
+			font-size: 160%;
+			width: 80%;
+			margin: auto;
+			position: relative;
+			overflow: auto;
+
+		}
+		#content {
+			background-color: #efefef;
+			padding: 15px;
+			height: auto;
+			position: absolute;
+		}
+		#nav {
+			height: auto;
+			position: absolute;
+		}
+		#nav {
+			float: left;
+			width: 250px;
+			font-family: monospace;
+			font-size: 120%;
+			padding: 5px;
+			border-right: 3px solid #000000;
+		}
+		#content {
+			left: 260px;
+			right: 0;
+		}
