@@ -1,13 +1,18 @@
-
 	#page {
-			background-image: url("images/scroll_to_tree.JPG");
 			background-color: #efefef;
 		}
-		#header {
-			background-color: #009933;
-			height: 200;
+
+		#header_title {
+			background-color: #22BB77;
+			height: 300;
 			text-align: center;
 		}
+		#subtitle {
+			background-color: #22BB77;
+			height: 200;
+			text-align: right;
+		}
+
 		body {
 			font-family: monospace;
 			font-size: 160%;
