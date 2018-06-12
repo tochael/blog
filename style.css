@@ -2,6 +2,7 @@
 		font-family:Garamond, Palatino;
 		font-size: 160%;
 		width: 90%;
+		min-height: 500px;
 		position: relative;
 		margin: auto;
 		vertical-align: middle;
