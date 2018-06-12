@@ -69,3 +69,11 @@
 	#logo {
 		margin: auto;
 	}
+	#links {
+		list-style-type: disc;
+		font-size: 22px;
+	}
+	#links  li a {
+		text-decoration: underline;
+		color: blue;
+	}
