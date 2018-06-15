@@ -1,0 +1,19 @@
+
+
+
+$$1: HOMEPAGE conventions and suggestions.
+
+1- Follow the commented template at the top of the feed, order posts from oldest to newest.
+2- Have a thumbnail with a smaller, more focused version of the feature photo.
+3- by line?
+
+TODO:
+	-- make thumbnails smaller files. Github can't serve them fast enough.
+	-- update thumbnails to conform with $$1.2
+	-- add dates to posts
+	-- an introductory blurb?
+
+
+BIGGER:
+	-- make an interface at @/$NAME with a form for making new posts easily (upload two pictures, give title, author and text in markdown)
+	-- come up with a good $NAME
