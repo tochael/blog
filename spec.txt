@@ -8,6 +8,7 @@ $$1: HOMEPAGE conventions and suggestions.
 3- by line?
 
 TODO:
+	-- Make links to the about page, with the author at the top (special link)
 	-- make thumbnails smaller files. Github can't serve them fast enough.
 	-- update thumbnails to conform with $$1.2
 	-- add dates to posts
