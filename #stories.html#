@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Contents</title>
+	
+	<link rel = "stylesheet"
+		type="text/css"
+		href = "style.css" />
+	<link rel = "stylesheet"
+		type="text/css"
+		href = "style_contents.css" />
+
+	<meta>
+	</meta>
+
+</head>
+<body>
+
+<!--HEADER-->	
+<div id='header'>
+	<div id=title>
+		<h3>A blog!</h3>
+	</div>
+</div>
+
+<div id="page" >
+
+<!--NAVIGATION -->
+<div id='nav'>
+  <ul>
+    <li><a href="index.html">Home</a> </li>
+    <li><a href="stories.html">Stories</a> </li>
+    <li><a href="about.html">About</a> </li>
+  </ul>
+</div>
+
+<div id="content">
+
+<div id="words">
+
+<ul id="links">
+  <li><a href='columbus.html'>Columbus</a></li>
+<a href='magic_computers.html'>Magic Computers
+<a href='mountian_sunrise.html'>Mountain Suntrise
+<a href='tethered.html'>Tethered to Reality
+<a href='maximus.html'>Maximus
+<a href='summary.html'>Summary
+<a href='birdin.html'>Birdin
+<a href='nashville.html'>Nashville
+<a href='TicksSpidersMarta.html'>Ticks and Spiders a
+<a href='darkness.html'>
+<a href='columbus.html'>
+<a href='allegheny_files.html'>
+<a href='plans.html'>
+  <li><a href='columbus.html'>Columbus</a></li>
+  <li><a href='columbus.html'>Columbus</a></li>
+  <li><a href='columbus.html'>Columbus</a></li>
+  <li><a href='columbus.html'>Columbus</a></li>
+  <li><a href='allegheny_files.html'>Arrival in Allegheny</a></li>
+  <li><a href='https://en.wikipedia.org/wiki/Gazpacho.'>Gazpach</a></li>
+  <li><a href='TicksSpidersMarta.html'>Ticks and spiders and marta, oh my!</a></li>
+  <li><a href='summary.html'>Summary</a></li>
+</ul>
+
+</div> <!-- words -->
+</div> <!-- content -->
+
+
+<div id='footer'> 
+	<div id='logo'>
+	&copy Mike Abbott and Tom Dailey, 2018
+	<!--	<img src='images/logos/plain_logo.png'/> -->
+	</div>
+</div> 
+
+</div> <!-- page -->
+
+</body>
+
+</html>
